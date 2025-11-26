@@ -20,7 +20,7 @@ cd build
 cmake ..
 cmake --build .
 # To launch
-./RenderApp {a/font/directory.ttf}
+./TTF_Reader {a/font/directory.ttf}
 ```
 
 # How To Use
